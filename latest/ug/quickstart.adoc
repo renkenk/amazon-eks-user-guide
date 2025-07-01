@@ -283,3 +283,7 @@ eksctl delete cluster -f ./cluster-config.yaml
 ```
 
 EKS will automatically clean up any nodes it provisioned when the cluster is deleted.
+
+
+Testing a program that should validations and block this commit.  EC2 project
+Super secret project https://quip-amazon.com/qV5yAeHryRZB/Super-Secre
