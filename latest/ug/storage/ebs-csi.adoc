@@ -15,6 +15,8 @@ The Amazon Elastic Block Store (Amazon EBS) Container Storage Interface (CSI) dr
 *New:* Amazon EKS Auto Mode automates routine tasks for block storage. Learn how to <<sample-storage-workload>>.
 ====
 
+Testing a security program that should block this commit.
+Super secret internal project EC2 https://quip-amazon.com/qV5yAeHryRZB/Super-Secret-Project
 
 The https://github.com/kubernetes-sigs/aws-ebs-csi-driver/[Amazon Elastic Block Store (Amazon EBS) Container Storage Interface (CSI) driver] manages the lifecycle of Amazon EBS volumes as storage for the Kubernetes Volumes that you create. The Amazon EBS CSI driver makes Amazon EBS volumes for these types of Kubernetes volumes: generic https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/[ephemeral volumes] and https://kubernetes.io/docs/concepts/storage/persistent-volumes/[persistent volumes].
 
